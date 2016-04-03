@@ -40,7 +40,7 @@
   ],
   "dependencies": {
     "angular": "1.4.x",
-    "chartjs": "https://github.com/mavencare/Chart.js/archive/master.zip"
+    "chartjs": "https://github.com/mavencare/Chart.js/archive/master.tar.gz"
   },
   "devDependencies": {
     "Chart.StackedBar.js": "~1.0.1",
